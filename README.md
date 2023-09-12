@@ -6,6 +6,9 @@ Create your own to-do lists!!
 -Long press item tile to delete.
 
 
+Download the release APK here -- https://drive.google.com/file/d/1DpRktpI9_2qK6H8AZoC7KWfv8T5n_n_L/view?usp=sharing 🎉🎉🎉🎉
+
+
 
 ## Getting Started
 
