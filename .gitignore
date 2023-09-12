@@ -56,6 +56,9 @@ app.*.map.json
 **/android/gradlew.bat
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
+/android/build.gradle
+/android/gradle.properties
+/android/todoey_android.iml
 
 
 **/ios/**/*.mode1v3
